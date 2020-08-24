@@ -8,5 +8,4 @@
 2- If you need another better emulator, contact the email kl3196704@gmail.com
 
 
-![ach_btpxep9i](https://cloud.githubusercontent.com/assets/812439/18764475/45ac7bd2-811a-11e6-8861-e5d518e5449d.jpg)
 
