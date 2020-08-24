@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `ScriptName` = 'npc_dire_beast' WHERE `entry` IN (69989, 69990, 74139);

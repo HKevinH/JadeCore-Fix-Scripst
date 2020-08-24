@@ -1,0 +1,1 @@
+UPDATE `gameobject_template` SET `size` = 1 WHERE `entry` IN (211174, 211163, 218950);

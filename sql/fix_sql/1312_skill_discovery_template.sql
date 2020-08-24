@@ -1,0 +1,1 @@
+DELETE FROM `skill_discovery_template` WHERE `spellId` = 64323 AND `reqSpell` = 112996;

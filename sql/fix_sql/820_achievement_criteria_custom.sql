@@ -1,0 +1,2 @@
+UPDATE `achievement_criteria_custom` SET `Value2`=1, `MoreReqType1`=20, `MoreReqValue1`=1, `active`=1 WHERE `Id`=19674 AND `Achievement`=6763;
+UPDATE `achievement_criteria_custom` SET `Value2`=1, `MoreReqType1`=20, `MoreReqType2`=61, `MoreReqValue1`=1, `active`=1 WHERE `Id`=19679 AND `Achievement`=6772;

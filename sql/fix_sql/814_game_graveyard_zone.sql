@@ -1,0 +1,1 @@
+REPLACE INTO `game_graveyard_zone` (`id`, `ghost_zone`) VALUES (4305, 6297);

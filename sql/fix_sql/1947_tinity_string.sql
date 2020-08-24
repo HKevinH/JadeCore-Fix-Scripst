@@ -1,0 +1,1 @@
+UPDATE `trinity_string` SET `content_default`='|cffff0000[Arena Queue Announcer]:|r -- Joined : %ux%u : %u|r', `content_loc3`='|cffff0000[BG Ansager für Warteschlange]:|r -- beigetreten : %ux%u : %u|r', `content_loc6`='|cffff0000[Anuncio de Cola de Arena]:|r -- Unido : %ux%u : %u|r' WHERE `entry`=718;

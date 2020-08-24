@@ -1,0 +1,1 @@
+UPDATE `access_requirement` SET `quest_done_A`=0, `quest_done_H`=0, `quest_failed_text`='' WHERE `mapId`=585 AND `difficulty`=2;

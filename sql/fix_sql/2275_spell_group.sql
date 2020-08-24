@@ -1,0 +1,1 @@
+DELETE FROM `spell_group` WHERE `id` = 1118;

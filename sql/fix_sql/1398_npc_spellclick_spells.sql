@@ -1,0 +1,2 @@
+insert into `npc_spellclick_spells` (`npc_entry`, `spell_id`, `cast_flags`, `user_type`) values('60283','124492','1','0');
+insert into `npc_spellclick_spells` (`npc_entry`, `spell_id`, `cast_flags`, `user_type`) values('60309','124492','1','0');

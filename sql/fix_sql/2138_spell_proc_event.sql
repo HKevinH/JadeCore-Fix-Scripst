@@ -1,0 +1,1 @@
+UPDATE `spell_proc_event` SET `SpellFamilyMask0` = 0x10A01AA0, `SpellFamilyMask3` = 0x0000000E WHERE `entry` = 109186;

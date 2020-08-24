@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `type` = 5 WHERE `entry` = 39788;

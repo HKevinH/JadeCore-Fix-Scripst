@@ -1,0 +1,2 @@
+REPLACE INTO `trinity_string` (`entry`, `content_default`, `content_loc8`) VALUES 
+('13200', 'Your message can\'t be sent because contains innormative words', 'Ваше сообщение не может быть послано, потому что содержит запрещенные символы');

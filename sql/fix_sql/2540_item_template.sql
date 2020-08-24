@@ -1,0 +1,1 @@
+UPDATE `item_template` SET `Flags` = `Flags` & ~0x200000 WHERE `class` = 0 AND `subclass` = 5;

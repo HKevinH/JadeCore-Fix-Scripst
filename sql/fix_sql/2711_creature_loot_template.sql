@@ -1,0 +1,1 @@
+UPDATE `creature_loot_template` SET `chanceorquestchance`=-100 WHERE `item` IN (87209, 87208);

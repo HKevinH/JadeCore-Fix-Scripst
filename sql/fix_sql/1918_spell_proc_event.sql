@@ -1,0 +1,1 @@
+UPDATE `spell_proc_event` SET `SpellFamilyName` = 8 WHERE `entry` = 34720; -- disable this proc

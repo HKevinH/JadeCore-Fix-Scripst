@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `ScriptName` = 'npc_fungal_growth' WHERE `entry` = 43484;

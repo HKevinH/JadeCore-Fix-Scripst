@@ -1,0 +1,1 @@
+UPDATE `creature_onkill_reputation` SET `MaxStanding1` = 7, `MaxStanding2` = 7 WHERE `creature_id` = 4624;

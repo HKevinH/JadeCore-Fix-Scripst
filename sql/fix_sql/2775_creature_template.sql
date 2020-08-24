@@ -1,0 +1,1 @@
+UPDATE creature_template SET VehicleId = 2059 WHERE entry IN (59464, 56718);

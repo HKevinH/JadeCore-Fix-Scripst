@@ -1,0 +1,17 @@
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=69134;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691344;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691345;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691346;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=69134;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691344;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=690785;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=690786;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=69134;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691344;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691315;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691316;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=69134;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691344;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691325;
+UPDATE `creature_template` SET `lootid`=0 WHERE `entry`=691326;
+UPDATE `creature_template` SET `lootid`=69134 WHERE `entry`=69135;

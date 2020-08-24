@@ -1,0 +1,1 @@
+UPDATE `spell_proc_event` SET `procEx` = 0x403 WHERE `entry` = 81749;

@@ -1,0 +1,1 @@
+UPDATE `gameobject_template` SET `type` = 26 WHERE `entry` IN (220174, 220165);

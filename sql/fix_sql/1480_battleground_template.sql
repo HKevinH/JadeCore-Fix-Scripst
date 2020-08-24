@@ -1,0 +1,1 @@
+UPDATE `battleground_template` SET `holiday` = 515 WHERE `id` = 754;

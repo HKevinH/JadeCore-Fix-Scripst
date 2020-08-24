@@ -1,0 +1,1 @@
+UPDATE `achievement_reward` SET `title_h` = 168 WHERE `entry` = 3478;

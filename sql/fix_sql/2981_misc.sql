@@ -1,0 +1,1 @@
+UPDATE `quest_template` SET `flags`=`flags`&~0x100000 WHERE `id`=29906;

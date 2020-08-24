@@ -1,0 +1,1 @@
+UPDATE `quest_template` SET `SpecialFlags` = `SpecialFlags` | 0x80 WHERE `id` IN (12762, 12705, 12761, 12703, 12759, 12760);

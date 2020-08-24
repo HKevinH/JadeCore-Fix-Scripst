@@ -1,0 +1,1 @@
+UPDATE `vehicle_template_accessory` SET `minion` = 1 WHERE `entry` = 28009;

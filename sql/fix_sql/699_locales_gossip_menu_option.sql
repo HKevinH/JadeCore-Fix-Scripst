@@ -1,0 +1,17 @@
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Торговец' WHERE `menu_id` = 435 AND `id` = 16;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Смотритель стойл' WHERE `menu_id` = 435 AND `id` = 15;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Учитель профессии' WHERE `menu_id` = 435 AND `id` = 14;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Порталы' WHERE `menu_id` = 435 AND `id` = 13;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Интересные места' WHERE `menu_id` = 435 AND `id` = 12;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Почта' WHERE `menu_id` = 435 AND `id` = 11;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Таверна' WHERE `menu_id` = 435 AND `id` = 10;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Регистратор гильдий' WHERE `menu_id` = 435 AND `id` = 9;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Укротитель грифонов' WHERE `menu_id` = 435 AND `id` = 8;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Учитель классовых навыков' WHERE `menu_id` = 435 AND `id` = 7;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Парикмахер' WHERE `menu_id` = 435 AND `id` = 6;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Банк Штормграда' WHERE `menu_id` = 435 AND `id` = 5;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Аукционный дом' WHERE `menu_id` = 435 AND `id` = 4;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Хранилище бездны' WHERE `menu_id` = 435 AND `id` = 3;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Трансмогрификация' WHERE `menu_id` = 435 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Чародейская перековка' WHERE `menu_id` = 435 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8` = 'Учитель боевых питомцев' WHERE `menu_id` = 435 AND `id` = 0;

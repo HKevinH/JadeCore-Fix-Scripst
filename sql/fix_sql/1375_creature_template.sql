@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `type_flags` = 1048594, `npcflag` = `npcflag` | 0x01000000, `unit_flags2` = 0, `unit_flags` = 142, `minlevel` = 1, `maxlevel` = 1 WHERE entry = 53194;

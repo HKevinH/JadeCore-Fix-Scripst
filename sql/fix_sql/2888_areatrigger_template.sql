@@ -1,0 +1,1 @@
+UPDATE `areatrigger_template` SET `CheckRadius` = 10 WHERE `spell_id` = 13810;

@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `type_flags` = `type_flags` | 0x00010000 WHERE `family` = 126;

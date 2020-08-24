@@ -1,0 +1,1 @@
+UPDATE `spell_script_names` SET `ScriptName` = 'spell_dru_natures_cure' WHERE `spell_id` = 88423;

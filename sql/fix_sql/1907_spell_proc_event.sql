@@ -1,0 +1,1 @@
+UPDATE `spell_proc_event` SET `entry` = 53238 WHERE `entry` = 53234;

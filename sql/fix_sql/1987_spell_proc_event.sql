@@ -1,0 +1,1 @@
+UPDATE `spell_proc_event` SET `SpellFamilyMask0` = 0x0, `SpellFamilyMask1` = 0x00002000, `SpellFamilyMask2` = 0x00040000, `SpellFamilyMask3` = 0x0, `procFlags` = 0x00200000, `CustomChance` = 100 WHERE `entry` = 19387;

@@ -1,0 +1,11 @@
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=58676;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=58683; 
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=58684;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=58685;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=58898;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=59150;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=59191;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=59240;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=59303;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=59309;
+UPDATE `creature_template` SET `difficulty_entry_1`= 5 WHERE `entry`=59372;

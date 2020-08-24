@@ -1,0 +1,1 @@
+UPDATE `event_scripts` SET `dataint` = 1 WHERE `id` IN (17452, 3981, 13008, 11413, 15726);

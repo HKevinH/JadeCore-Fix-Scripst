@@ -1,0 +1,16 @@
+REPLACE INTO `achievement_criteria_custom` (`Id`, `Achievement`, `Type`, `Value1`, `Value2`, `AddType1`, `AddValue1`, `AddType2`, `AddValue2`, `Name`, `TimedCriteriaStartType`, `TimedCriteriaMiscId`, `TimeLimit`, `MoreReqType1`, `MoreReqType2`, `MoreReqType3`, `MoreReqValue1`, `MoreReqValue2`, `MoreReqValue3`, `active`) VALUES 
+(19651, 6670, 28, 123900, 1, 0, 0, 0, 0, 'Terrace of Endless Spring Guild Run', 0, 0, 0, 06, 0, 0, 1, 0, 0, 1),
+(19652, 6670, 28, 123901, 1, 0, 0, 0, 0, 'Terrace of Endless Spring Guild Run', 0, 0, 0, 06, 0, 0, 1, 0, 0, 1),
+(19494, 6670, 28, 123903, 1, 0, 0, 0, 0, 'Terrace of Endless Spring Guild Run', 0, 0, 0, 60, 0, 0, 1, 0, 0, 1),
+(19495, 6670, 0, 60999, 1, 0, 0, 0, 0, 'Terrace of Endless Spring Guild Run', 0, 0, 0, 60, 0, 0, 1, 0, 0, 1),
+(19496, 6676, 0, 60999, 1, 0, 0, 0, 0, 'Heroic: Sha of Fear Guild Run', 0, 0, 0, 20, 60, 0, 5, 1, 0, 1),
+(19518, 6689, 28, 123900, 1, 0, 0, 0, 0, 'Terrace of Endless Spring', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1),
+(19519, 6689, 28, 123901, 1, 0, 0, 0, 0, 'Terrace of Endless Spring', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1),
+(19520, 6689, 28, 123903, 1, 0, 0, 0, 0, 'Terrace of Endless Spring', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1),
+(19521, 6689, 0, 60999, 1, 0, 0, 0, 0, 'Terrace of Endless Spring', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1),
+(19647, 6731, 28, 123900, 1, 0, 0, 0, 0, 'Heroic: Protectors of the Endless', 0, 0, 0, 20, 0, 0, 5, 0, 0, 1),
+(19648, 6732, 28, 123901, 1, 0, 0, 0, 0, 'Heroic: Tsulong', 0, 0, 0, 20, 0, 0, 5, 0, 0, 1),
+(19649, 6733, 28, 123903, 1, 0, 0, 0, 0, 'Heroic: Lei Shi', 0, 0, 0, 20, 0, 0, 5, 0, 0, 1),
+(19650, 6734, 0, 60999, 1, 0, 0, 0, 0, 'Heroic: Sha of Fear', 0, 0, 0, 20, 0, 0, 5, 0, 0, 1),
+(21347, 7487, 0, 60999, 1, 0, 0, 0, 0, 'Cutting Edge: Sha of Fear', 0, 0, 0, 20, 0, 0, 5, 0, 0, 1),
+(23250, 8248, 74, 0, 0, 0, 0, 0, 0, 'Ahead of the Curve: Sha of Fear', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
